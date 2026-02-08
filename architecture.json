@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-urban-realism-colonial-aftermath",
+  "title": "The Stone's Stored Warmth",
+  "tagline": "In the dust of Renaissance Florence, an apprentice stonecarver discovers that the true weight of the city is not in its monuments, but in the silent aftermath of its distant conquests.",
+  "target_words": 71393,
+  "actual_words": 71393,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Craft of Memory",
+    "The Weight of Ambition",
+    "Silent Legacies of Empire",
+    "The Persistence of the Past"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Cold Bite of the Stone",
+      "words": 5949
+    },
+    {
+      "ch": 2,
+      "title": "Twelve Florins and a Future",
+      "words": 5949
+    },
+    {
+      "ch": 3,
+      "title": "A Coffin Lined with Humanity",
+      "words": 5949
+    },
+    {
+      "ch": 4,
+      "title": "The Silence of the Old Man",
+      "words": 5949
+    },
+    {
+      "ch": 5,
+      "title": "The Jungle's Green Patience",
+      "words": 5949
+    },
+    {
+      "ch": 6,
+      "title": "A Silence of Held Breath",
+      "words": 5949
+    },
+    {
+      "ch": 7,
+      "title": "The Heart of the Knot",
+      "words": 5949
+    },
+    {
+      "ch": 8,
+      "title": "The Fragility of Whispers",
+      "words": 5949
+    },
+    {
+      "ch": 9,
+      "title": "Dust of Ancient Decisions",
+      "words": 5949
+    },
+    {
+      "ch": 10,
+      "title": "A Grit That Smothers Sound",
+      "words": 5949
+    },
+    {
+      "ch": 11,
+      "title": "The Indifference of Rain",
+      "words": 5949
+    },
+    {
+      "ch": 12,
+      "title": "The Stone's Stored Warmth",
+      "words": 5949
+    }
+  ]
+}
